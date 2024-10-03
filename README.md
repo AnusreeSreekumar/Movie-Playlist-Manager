@@ -1,12 +1,12 @@
 # Movie-Playlist-Manager
 
 1. HTML Structure
-Create an HTML file with a basic structure.
-Include input fields for entering a movie name and priority.
-Add a button to add movies to the playlist.
-Use an unordered list to display the movies.
+	.Create an HTML file with a basic structure.   
+	.Include input fields for entering a movie name and priority.
+	.Add a button to add movies to the playlist.
+	.Use an unordered list to display the movies.
 
-2. CSS Styling
+3. CSS Styling
 Style the unordered list to remove bullet points.
 Add margin to list items.
 Create classes for different priority levels:
